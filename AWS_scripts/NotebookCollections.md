@@ -1,3 +1,55 @@
+<<<<<<< HEAD
+=====   For Big Data Course ====
+## eigenfaces  notebooks/eigenfaces/
+## weather  notebooks/weather/
+## PCA	    notebooks/yoavs_notebooks/sklearn_Yoav/
+===== Introduction to ipython Notebooks ======
+## ipython  ipython/examples/notebooks/
+Animations Using clear_output.ipynb
+Cell Magics.ipynb
+Custom Display Logic.ipynb
+Cython Magics.ipynb
+Data Publication API.ipynb
+Frontend-Kernel Model.ipynb
+Importing Notebooks.ipynb
+Octave Magic.ipynb
+Part 1 - Running Code.ipynb
+Part 2 - Basic Output.ipynb
+Part 3 - Plotting with Matplotlib.ipynb
+Part 4 - Markdown Cells.ipynb
+Part 5 - Rich Display System.ipynb
+Progress Bars.ipynb
+R Magics.ipynb
+Script Magics.ipynb
+SymPy Examples.ipynb
+Trapezoid Rule.ipynb
+Typesetting Math Using MathJax.ipynb
+User Interface.ipynb
+=====   Pandas   =====
+## hrojas-learn-pandas	notebooks/hrojas-learn-pandas/lessons/
+hrojas-learn-pandas/lessons/01 - Exercise.ipynb
+hrojas-learn-pandas/lessons/01 - Lesson.ipynb
+hrojas-learn-pandas/lessons/02 - Exercise.ipynb
+hrojas-learn-pandas/lessons/02 - Lesson.ipynb
+hrojas-learn-pandas/lessons/03 - Exercise.ipynb
+hrojas-learn-pandas/lessons/03 - Lesson.ipynb
+hrojas-learn-pandas/lessons/04 - Exercise.ipynb
+hrojas-learn-pandas/lessons/04 - Lesson.ipynb
+hrojas-learn-pandas/lessons/05 - Lesson.ipynb
+hrojas-learn-pandas/lessons/06 - Lesson.ipynb
+hrojas-learn-pandas/lessons/07 - Lesson.ipynb
+hrojas-learn-pandas/lessons/08 - Lesson.ipynb
+hrojas-learn-pandas/lessons/09 - Lesson.ipynb
+hrojas-learn-pandas/lessons/10 - Lesson.ipynb
+hrojas-learn-pandas/lessons/11 - Lesson.ipynb
+hrojas-learn-pandas/lessons/Cookbook - Compute.ipynb
+hrojas-learn-pandas/lessons/Cookbook - Merge.ipynb
+hrojas-learn-pandas/lessons/Cookbook - Select.ipynb
+hrojas-learn-pandas/lessons/Cookbook - Sort.ipynb
+hrojas-learn-pandas/lessons/Pandas for Excel Developers.ipynb
+hrojas-learn-pandas/lessons/Pandas for SQL Developers.ipynb
+hrojas-learn-pandas/lessons/Python_101.ipynb
+=======
 ## Notebooks created For Big Data Course ##
 ####  __[docs]__ UCSD_BigData/notebooks/docs/  ####
 Markdown documents 
@@ -36,6 +88,7 @@ Documentation Notebooks: the review process and how to use github to do it.
 1. Trapezoid Rule.ipynb
 1. Typesetting Math Using MathJax.ipynb
 1. User Interface.ipynb
+>>>>>>> f3407a0af7be1fac2285b8d2b5607fb4d0eb70c4
 
 ##   Pandas   ##
 ####  __[hrojas-learn-pandas]__  notebooks/hrojas-learn-pandas/lessons/
