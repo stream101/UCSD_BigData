@@ -3,7 +3,7 @@ import sys,os
 import subprocess as sp
 import re
 
-root='/home/ubuntu/'
+root='/home/ubuntu/XinXin/'
 filename=root+'UCSD_BigData/AWS_scripts/NotebookCollections.md'
 
 def printFile(filename):
