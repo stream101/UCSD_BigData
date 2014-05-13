@@ -16,3 +16,11 @@ randomize.py		A script for efficiently randomizing the order of lines in a file.
 
 README.txt		This file
 
+
+===============================
+Note:
+map-year-temp.py: Group the data by latitutde: (key, value) = (lat, {year,
+Station, lat, Xtemps, Ntemps})
+
+reduce-year-temp: Read the grouped data, sum them up, compute cov matrix and
+eigen vectors. 
