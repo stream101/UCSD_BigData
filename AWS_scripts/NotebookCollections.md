@@ -52,6 +52,9 @@ hrojas-learn-pandas/lessons/Python_101.ipynb
 =======
 ## Notebooks created For Big Data Course ##
 
+#### __[streaming]__  UCSD_BigData/notebooks/streaming/
+Streaming and statistical estimation algorithms
+
 #### __[weather.MR]__ UCSD_BigData/notebooks/weather.mapreduce/
 A directory with a notebook for using mrjob on the weather data.
 Intended to be used with the complete dataset of 7.9 GB.
